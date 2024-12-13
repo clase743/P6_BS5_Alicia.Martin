@@ -7,3 +7,9 @@
     background-color: rgb(243, 214, 176);
     text-align: center;
 }
+#card{
+    width: 30%;
+    height: 40%;
+    position: relative;
+    left: 60%;
+}
